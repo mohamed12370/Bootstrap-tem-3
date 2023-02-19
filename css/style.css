@@ -235,6 +235,8 @@ main {
 .basic .box img {
   border-radius: 20px;
   height: 300px;
+  margin: auto;
+  display: block;
 }
 
 /* rest2 */
